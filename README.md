@@ -2,3 +2,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahalsuad&layout=compact)](https://github.com/abdullahalsuad/github-readme-stats)
 
+[![Abdullah Al Suad's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=abdullahalsuad)](https://github.com/abdullahalsuad/github-readme-stats)
+
+
