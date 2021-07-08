@@ -16,8 +16,9 @@
  
  
  <strong>💡 My Languages And Tools:</strong><br><br>
- [<img alt="HTML5"  height="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
- 
+ <img alt="HTML5"  height="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+ <img alt="CSS3"  height="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+                
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahalsuad&card_width=500&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"><br><br>
 
