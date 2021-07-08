@@ -29,6 +29,8 @@
  <img alt="Terminal" title="Terminal" height="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
  <img alt="Visual Studio"  height="28px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" />
  <img alt="sublime"  height="28px" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" />
+  <img alt="Brackets"  height="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Brackets_Icon.svg/1200px-Brackets_Icon.svg.png" />
+ <img alt="code-blocks"  height="28px" src="https://icon2.cleanpng.com/20180514/we/kisspng-code-blocks-integrated-development-environment-c-5af9eedfed4669.0618493515263290559719.jpg" />
  
             
             
