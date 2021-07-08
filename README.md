@@ -1,8 +1,9 @@
  # <h1 align="center">Hi, I'm <a href="https://github.com/">Abdullah Al Suad 🚀<a></h1>
  
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahalsuad&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahalsuad" /></p> 
- ![](https://visitor-badge.glitch.me/badge?page_id=abdullahalsuad.abdullahalsuad)
-
+ 
+![](https://visitor-badge.glitch.me/badge?page_id=abdullahalsuad.abdullahalsuad)
+ 
 ![Abdullah Al Suad's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullahalsuad&show_icons=true&theme=radical)<br><br>
  
  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahalsuad&theme=radical&hide_border=true"/><br><br>
