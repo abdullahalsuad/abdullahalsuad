@@ -28,6 +28,7 @@
  <img alt="npm"  height="28px" src="https://img.icons8.com/color/452/npm.png" />
  <img alt="Terminal" title="Terminal" height="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
  <img alt="Visual Studio"  height="28px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" />
+ <img alt="sublime"  height="28px" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" />
  
             
             
