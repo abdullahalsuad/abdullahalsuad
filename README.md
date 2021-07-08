@@ -1,3 +1,6 @@
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=iftakher99&label=Profile%20views&color=0e75b6&style=flat" alt="iftakher_mahmud" />
+    </p>
+
 ![](https://visitor-badge.glitch.me/badge?page_id=iftakher99.iftakher99)
 
 ![Abdullah Al Suad's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullahalsuad&show_icons=true&theme=radical)
