@@ -22,6 +22,8 @@
  <img src="https://i.pinimg.com/originals/91/94/c9/9194c978fa63798b2e882e6fda5eb953.png" alt="python" width="40" height="40"/>
  <img alt="bootstrap"  height="28px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />
  <img alt="bulma"  height="28px" src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/103112959/original/6832bba89e600fd87a5fa3793a1768fc1b95965b/create-bulma-css-framework-website.png" />
+ <img alt="css"  height="50px" width="40"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4Uqz4dPww9PfucpmfYlQIL9ynTVekobnEbvq9XIxnRdPONaTuUblgp-fqI3QAGQcVSUs&usqp=CAU" />
+            
             
                 
                 
