@@ -9,7 +9,7 @@
  
  
  
-[!<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahalsuad&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahalsuad" /></p>](#)[![](https://visitor-badge.glitch.me/badge?page_id=abdullahalsuad.abdullahalsuad)](#)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahalsuad&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahalsuad" /></p> (#) [](https://visitor-badge.glitch.me/badge?page_id=abdullahalsuad.abdullahalsuad)
  
  
 <strong>💡 My Languages And Tools:</strong><br><br> 
