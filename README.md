@@ -16,9 +16,9 @@
  
 <strong>💡 My Languages And Tools:</strong><br><br>
  
- https://img.shields.io/badge/HTML5-F5421C?style=for-the-badge&logo=HTML5&logoColor=white
  
- [![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](#)
+ 
+ [![HTML Badge](https://img.shields.io/badge/HTML5-F5421C?style=for-the-badge&logo=HTML5&logoColor=white)](#)
  
  <img alt="HTML5"  height="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
  <img alt="CSS3"  height="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
