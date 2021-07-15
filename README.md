@@ -8,6 +8,12 @@
 
  
  
+ 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahalsuad&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahalsuad" /></p> 
+
+![](https://visitor-badge.glitch.me/badge?page_id=abdullahalsuad.abdullahalsuad)
+ 
+ 
 <strong>💡 My Languages And Tools:</strong><br><br>
  <img alt="HTML5"  height="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
  <img alt="CSS3"  height="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -30,9 +36,6 @@
  
  
  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahalsuad&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahalsuad" /></p> 
-
-![](https://visitor-badge.glitch.me/badge?page_id=abdullahalsuad.abdullahalsuad)
  
 ![Abdullah Al Suad's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullahalsuad&show_icons=true&theme=radical)<br><br>
  
