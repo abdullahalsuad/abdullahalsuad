@@ -7,16 +7,8 @@
  
 
  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahalsuad&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahalsuad" /></p> 
-
-![](https://visitor-badge.glitch.me/badge?page_id=abdullahalsuad.abdullahalsuad)
  
-![Abdullah Al Suad's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullahalsuad&show_icons=true&theme=radical)<br><br>
- 
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahalsuad&theme=radical&hide_border=true"/><br><br>
- 
- 
- <strong>💡 My Languages And Tools:</strong><br><br>
+<strong>💡 My Languages And Tools:</strong><br><br>
  <img alt="HTML5"  height="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
  <img alt="CSS3"  height="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
  <img alt="JavaScript"  height="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -32,7 +24,22 @@
  <img alt="Visual Studio"  height="28px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" />
  <img alt="sublime"  height="28px" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" />
   <img alt="Brackets"  height="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Brackets_Icon.svg/1200px-Brackets_Icon.svg.png" />
- <img alt="code-blocks"  height="28px" src="https://icon2.cleanpng.com/20180514/we/kisspng-code-blocks-integrated-development-environment-c-5af9eedfed4669.0618493515263290559719.jpg" />
+ <img alt="code-blocks"  height="28px" src="https://icon2.cleanpng.com/20180514/we/kisspng-code-blocks-integrated-development-environment-c-5af9eedfed4669.0618493515263290559719.jpg" /> 
+ 
+ 
+ 
+ 
+ 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahalsuad&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahalsuad" /></p> 
+
+![](https://visitor-badge.glitch.me/badge?page_id=abdullahalsuad.abdullahalsuad)
+ 
+![Abdullah Al Suad's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullahalsuad&show_icons=true&theme=radical)<br><br>
+ 
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahalsuad&theme=radical&hide_border=true"/><br><br>
+ 
+ 
+ 
  
             
             
