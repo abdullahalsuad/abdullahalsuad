@@ -20,7 +20,7 @@
  
  [![HTML Badge](https://img.shields.io/badge/-HTML5-F5421C?style=for-the-badge&labelColor=black&logo=html5&logoColor=white)](#) [![CSS3 Badge](https://img.shields.io/badge/-CSS3-1C5CF5?style=for-the-badge&labelColor=black&logo=css3&logoColor=white)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=white)](#)[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=white)](#)
  
- [![VSCode Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](#) [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
+ [![VSCode Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](#) [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)[![Npm Badge](https://img.shields.io/badge/-npm-F44F08?style=for-the-badge&labelColor=black&logo=npm&logoColor=white)](#)
 
  
  
