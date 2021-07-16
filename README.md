@@ -10,7 +10,7 @@
  
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahalsuad&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahalsuad" /></p> 
-<p align="left"> <img src="https://visitor-badge.glitch.me/badge?page_id=abdullahalsuad.abdullahalsuad" alt="abdullahalsuad" /></p> 
+
 
  
  <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
@@ -33,6 +33,9 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=abdullahalsuad&show_icons=true&locale=en&theme=chartreuse-dark" /></p><br><br>
  
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahalsuad&theme=radical&hide_border=true" /></p>
+
+
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 <br><br><br><br><br>
  
