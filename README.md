@@ -54,11 +54,6 @@
 
 
 
------
-Credits: [Abdullah Al Suad](https://github.com/abdullahalsuad)
-
-Last Edited on: 06/16/2021
-
 
             
             
