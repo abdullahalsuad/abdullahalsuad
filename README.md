@@ -36,9 +36,9 @@
  [![VSCode Badge](https://img.shields.io/badge/-VisualStudio-0F85F1?style=for-the-badge&labelColor=black&logo=VisualStudio&logoColor=white)](#) [![Git Badge](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&labelColor=black&logo=Git&logoColor=white)](#) [![Npm Badge](https://img.shields.io/badge/-npm-F44F08?style=for-the-badge&labelColor=black&logo=npm&logoColor=white)](#) [![Sublime Text Badge](https://img.shields.io/badge/-SublimeText-F49708?style=for-the-badge&labelColor=black&logo=SublimeText&logoColor=white)](#)
 
  
+
  
- 
-<br><br><br><br>
+<br>
 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
  
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=abdullahalsuad&show_icons=true&locale=en&theme=chartreuse-dark" /></p><br><br>
