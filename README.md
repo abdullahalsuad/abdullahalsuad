@@ -26,17 +26,15 @@
  
  
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=abdullahalsuad&show_icons=true&locale=en&theme=chartreuse-dark"   /></p> <br>
+  <p align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p> <br><br>
+ 
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=abdullahalsuad&show_icons=true&locale=en&theme=chartreuse-dark"   /></p> <br><br>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahalsuad&theme=radical&hide_border=true" /></p>
 
 <br><br><br><br><br>
  
- 
-   <p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
- 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=OvinduWijethunge&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=OvinduWijethunge&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+
+
 <br><br><br><br><br>
 
 
