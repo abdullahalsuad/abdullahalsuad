@@ -10,12 +10,12 @@
  
  
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Parply" alt="Parply" />
-    <a href="https://github.com/Parply/"><img src="https://img.shields.io/github/followers/Parply?style=flat-square?color=%234CC61E&label=GitHub%20Followers%20"/></a>
-  <a href="https://github.com/Parply/"><img src="https://img.shields.io/github/last-commit/Parply/Parply?style=flat-square?color=red&label=Last%20Updated%20"/></a>
+  <img src="https://komarev.com/ghpvc/?username=abdullahalsuad" alt="abdullahalsuad" />
+    <a href="https://github.com/abdullahalsuad/"><img src="https://img.shields.io/github/followers/abdullahalsuad?style=flat-square?color=%234CC61E&label=GitHub%20Followers%20"/></a>
+  <a href="https://github.com/abdullahalsuad/"><img src="https://img.shields.io/github/last-commit/abdullahalsuad/abdullahalsuad?style=flat-square?color=red&label=Last%20Updated%20"/></a>
 </p>
  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahalsuad&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahalsuad" /></p> 
+
 
 
  
