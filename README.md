@@ -27,17 +27,11 @@
  
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=abdullahalsuad&show_icons=true&locale=en&theme=chartreuse-dark"  width="410" /></p>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahalsuad&theme=radical&hide_border=true"  /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahalsuad&theme=radical&hide_border=true" /></p>
 
 <br><br><br><br><br>
 
-<hr>
- 
- 
- 
-<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-<img src="https://github-profile-trophy.vercel.app/?username=abdullahalsuad&theme=juicyfresh&no-bg=true" />
-            
+
             
             
                 
