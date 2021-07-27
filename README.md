@@ -48,7 +48,7 @@
 
 
 <br><br><br><br><br>
-<a href="https://github.com/abdullahalsuad/"><img src="https://img.shields.io/github/last-commit/abdullahalsuad/abdullahalsuad?style=flat-square?color=red&label=Last%20Updated%20"/></a>
+## <a href="https://github.com/abdullahalsuad/"><img src="https://img.shields.io/github/last-commit/abdullahalsuad/abdullahalsuad?style=flat-square?color=red&label=Last%20Updated%20"/></a>
 
 
 
