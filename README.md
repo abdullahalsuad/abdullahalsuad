@@ -1,4 +1,4 @@
- # <h1 align="center">Hi, I'm <a href="http://suad.mybusinessservices.info/">Abdullah Al Suad <a> <img src="https://media.giphy.com/media/cmegx6SssTKmEFEcwj/giphy.gif" width="50px" alt="Git"/> </h1>
+ # <h1 align="center">Hi, I'm <a href="http://suad.mybusinessservices.info/">Abdullah Al Suad <a> <img src="![image](https://user-images.githubusercontent.com/71169804/127492556-d38710c6-30d9-4d8a-949b-5f500eb8bcc9.png)" width="50px" alt="Git"/> </h1>
  ### <h1 align="center">Student | Programmer | Web Developer 💻</h1> 
  
  
