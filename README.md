@@ -1,4 +1,4 @@
- # <h1 align="center">Hi, I'm <a href="http://suad.mybusinessservices.info/">Abdullah Al Suad <a> <img src="https://media.giphy.com/media/l4KhQo2MESJkc6QbS/giphy.gif" width="50px" alt="Git"/> </h1>
+ # <h1 align="center">Hi, I'm <a href="http://suad.mybusinessservices.info/">Abdullah Al Suad <a> <img src="https://media.giphy.com/media/cmegx6SssTKmEFEcwj/giphy.gif" width="50px" alt="Git"/> </h1>
  ### <h1 align="center">Student | Programmer | Web Developer 💻</h1> 
  
  
@@ -51,7 +51,6 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 
- <img src="https://media.giphy.com/media/cmegx6SssTKmEFEcwj/giphy.gif"/>
 
 
 
