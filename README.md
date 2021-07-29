@@ -51,7 +51,7 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 
- <img src="https://media.giphy.com/media/cmegx6SssTKmEFEcwj/giphy.gif" width="30px" alt="Git"/>
+ <img src="https://media.giphy.com/media/cmegx6SssTKmEFEcwj/giphy.gif"/>
 
 
 
