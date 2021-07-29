@@ -1,4 +1,4 @@
- # <h1 align="center">Hi, I'm <a href="http://suad.mybusinessservices.info/">Abdullah Al Suad <a> ![image](https://user-images.githubusercontent.com/71169804/127492615-f411705f-e386-4cf4-8868-e78b679d7272.png)
+ # <h1 align="center">Hi, I'm <a href="http://suad.mybusinessservices.info/">Abdullah Al Suad <a>
  </h1>
  ### <h1 align="center">Student | Programmer | Web Developer 💻</h1> 
  
