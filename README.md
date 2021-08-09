@@ -51,11 +51,7 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 
-
-
-
-            
-<img  src="https://raw.githubusercontent.com/abdullahalsuad/abdullahalsuad/a764d6dc1a199093775de97006355a31b9a3e3f1/github-user-contributionj.svg" />                      
+                  
 
 
 
