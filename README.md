@@ -22,8 +22,7 @@
  
 #### Profile Visits 
 
-<a href="https://github.com/abdullahalsuad/"><img src="https://img.shields.io/github/visits/abdullahalsuad?style=flat-square?color=%234CC61E&label=GitHub%20Followers%20"/></a>
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=learnwithsumit.learnwithsumit)
 
 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
 
