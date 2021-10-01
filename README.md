@@ -22,7 +22,7 @@
  
 #### Profile Visits 
 
-![](https://komarev.com/ghpvc/?abdullahalsuad=your-github-abdullahalsuad&color=green)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=abdullahalsuad.abdullahalsuad)
 
 
 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
