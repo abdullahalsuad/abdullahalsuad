@@ -35,7 +35,9 @@
  <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /><br><br><br><br><br>
  
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahalsuad&theme=radical&hide_border=true" /></p><br><br><br><br><br>
+
  <br ><br ><br ><br ><br ><br ><br >
+ 
  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abdullahalsuad)  
 
 
