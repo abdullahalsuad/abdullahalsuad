@@ -13,6 +13,8 @@
  
  <hr>
  <!--- proffile count --> 
+ <img width="20%" src="https://profile-counter.glitch.me/{prathimacode-hub}/count.svg" /> 
+
 <!--- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abdullahalsuad" alt="abdullahalsuad" />
     <a href="https://github.com/abdullahalsuad/"><img src="https://img.shields.io/github/followers/abdullahalsuad?style=flat-square?color=%234CC61E&label=GitHub%20Followers%20"/></a>
