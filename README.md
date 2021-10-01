@@ -12,8 +12,12 @@
  
  
  <hr>
- <!--- proffile count --> 
- <img align="center" width="20%" src="https://profile-counter.glitch.me/{prathimacode-hub}/count.svg" /> 
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abdullahalsuad" alt="abdullahalsuad" />
+    <a href="https://github.com/abdullahalsuad/"><img src="https://img.shields.io/github/followers/abdullahalsuad?style=flat-square?color=%234CC61E&label=GitHub%20Followers%20"/></a>
+ <a href="https://github.com/abdullahalsuad/"><img src="https://img.shields.io/github/last-commit/abdullahalsuad/abdullahalsuad?style=flat-square?color=red&label=Last%20Updated%20"/></a>
+</p> 
 
 
  
@@ -41,10 +45,7 @@
  
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahalsuad&theme=radical&hide_border=true" /></p><br>
 
-<details><summary><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;Contribution Graph</summary>
-<p align="left">
-<img width="90%" src="https://activity-graph.herokuapp.com/graph?username=abdullahalsuad-hub&theme=xcode" /></p>
-</details>
+
 
 
 <br><br><br><br><br><br><br><br><br><br>
