@@ -4,10 +4,7 @@
 :computer: My goals are to learn new technology/programming languages.<br/><br/>
 ⚡ &emsp I am looking forward to further expanding my skills.<br/>
 <br/>
- 
- 
 
- <br/><br/>
 :coffee: &emsp;Connect with me!
  
  [![Website](https://img.shields.io/badge/abdullahalsuad.netlify.app/-390FF1?style=for-the-badge&logo=Website&logoColor=black)](http://abdullahalsuad.netlify.app/)
