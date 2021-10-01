@@ -1,5 +1,5 @@
  # <h1 align="center">Hi, I'm <a href="http://abdullahalsuad.netlify.app/">Abdullah Al Suad <a> 🚀</h1>
- ### <h1 align="center">Student | Programmer | Web Developer 💻</h1> 
+  <h1 align="center">Student | Programmer | Web Developer 💻</h1> 
  
  
 
@@ -12,10 +12,6 @@
  
 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdullahalsuad" alt="abdullahalsuad" />
-    
-</p> 
 
 
 
@@ -31,9 +27,29 @@
  [![VSCode Badge](https://img.shields.io/badge/-VisualStudio-0F85F1?style=for-the-badge&labelColor=black&logo=VisualStudio&logoColor=white)](#) [![Git Badge](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&labelColor=black&logo=Git&logoColor=white)](#) [![Npm Badge](https://img.shields.io/badge/-npm-F44F08?style=for-the-badge&labelColor=black&logo=npm&logoColor=white)](#) [![Sublime Text Badge](https://img.shields.io/badge/-SublimeText-F49708?style=for-the-badge&labelColor=black&logo=SublimeText&logoColor=white)](#)
 
  
-[![abdullahalsuad's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=abdullahalsuad)]
-
  
+ <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abdullahalsuad" alt="abdullahalsuad" /> 
+</p> 
+
+<details>
+<summary>
+  You wanna know more about me?
+</summary>
+
+<br >
+
+I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and that's why Learn with Sumit Youtube Channel exists!
+
+#### What is Learn with Sumit?
+
+"Learn with Sumit" is all about teaching web development skills and techniques in an efficient and practical manner. It has all the tools you need to learn the newest and most popular technologies to convert you from a no stack to full stack developer. I started "Learn with Sumit" in order to share my passion for web development and do what I truly love - teach and inspire new web developers.
+
+#### Github Stats
+
+![learnwithsumit's github stats](https://github-readme-stats.vercel.app/api?username=learnwithsumit&count_private=true&theme=tokyonight&hide=contribs,prs)
+
+</details>
 
 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
  
