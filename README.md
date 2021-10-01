@@ -1,13 +1,13 @@
  ## <h1 align="center">Hi, <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> I'm <a href="http://abdullahalsuad.netlify.app/">Abdullah Al Suad <a> 🚀</h1>
  #### <p align="center">Student | Programmer | Web Developer 💻</p> 
  <hr>
-:computer: My goals are to learn new technology/programming languages.
-⚡ &emsp I am looking forward to further expanding my skills.
-
+:computer: My goals are to learn new technology/programming languages.<br/><br/>
+⚡ &emsp I am looking forward to further expanding my skills.<br/>
+<br/>
  
  
 
- 
+ <br/><br/>
 :coffee: &emsp;Connect with me!
  
  [![Website](https://img.shields.io/badge/abdullahalsuad.netlify.app/-390FF1?style=for-the-badge&logo=Website&logoColor=black)](http://abdullahalsuad.netlify.app/)
@@ -36,12 +36,12 @@
 
 ![abdullahalsuad's github stats](https://github-readme-stats.vercel.app/api?username=abdullahalsuad&count_private=true&theme=tokyonight&hide=contribs,prs)
  
- <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /><br><br><br><br><br>
+ <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /><br/><br/>
  
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahalsuad&theme=radical&hide_border=true" /></p><br><br><br><br><br>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahalsuad&theme=radical&hide_border=true" /></p><br/><br/>
 
 
-<br><br><br><br><br><br><br><br><br><br>
+<br/><br/><br/><br/><br/>
 
 
                   
