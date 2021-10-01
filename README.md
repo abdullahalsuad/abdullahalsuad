@@ -11,14 +11,6 @@
 
  
 
-
-
-
-
-
-
-
-
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>My Languages And Tools</b></i></p>
  
 [![HTML Badge](https://img.shields.io/badge/-HTML5-F5421C?style=for-the-badge&labelColor=black&logo=html5&logoColor=white)](#) [![CSS3 Badge](https://img.shields.io/badge/-CSS3-1C5CF5?style=for-the-badge&labelColor=black&logo=css3&logoColor=white)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=white)](#) [![SASS Badge](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&labelColor=black&logo=Sass&logoColor=white)](#) [![Python Badge](https://img.shields.io/badge/-Python-F4C908?style=for-the-badge&labelColor=black&logo=Python&logoColor=white)](#)
@@ -28,36 +20,27 @@
 
  
  
- <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdullahalsuad" alt="abdullahalsuad" /> 
-</p> 
+#### Profile Visits 
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=abdullahalsuad.abdullahalsuad)
 
 <details>
 <summary>
-  You wanna know more about me?
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
 </summary>
 
 <br >
-
-I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and that's why Learn with Sumit Youtube Channel exists!
-
-#### What is Learn with Sumit?
-
-"Learn with Sumit" is all about teaching web development skills and techniques in an efficient and practical manner. It has all the tools you need to learn the newest and most popular technologies to convert you from a no stack to full stack developer. I started "Learn with Sumit" in order to share my passion for web development and do what I truly love - teach and inspire new web developers.
-
 #### Github Stats
 
-![learnwithsumit's github stats](https://github-readme-stats.vercel.app/api?username=learnwithsumit&count_private=true&theme=tokyonight&hide=contribs,prs)
+![abdullahalsuad's github stats](https://github-readme-stats.vercel.app/api?username=abdullahalsuad&count_private=true&theme=tokyonight&hide=contribs,prs)
+ 
+ <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /><br><br><br><br><br>
+ 
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahalsuad&theme=radical&hide_border=true" /></p><br>
 
 </details>
 
-<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
- 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=abdullahalsuad&show_icons=true&locale=en&theme=chartreuse-dark" /></p><br><br><br><br>
 
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /><br><br><br><br><br>
- 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahalsuad&theme=radical&hide_border=true" /></p><br>
 
 
 
