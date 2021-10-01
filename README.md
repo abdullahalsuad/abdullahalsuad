@@ -15,11 +15,7 @@
  <!--- proffile count --> 
  <img align="center" width="20%" src="https://profile-counter.glitch.me/{prathimacode-hub}/count.svg" /> 
 
-<!--- <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdullahalsuad" alt="abdullahalsuad" />
-    <a href="https://github.com/abdullahalsuad/"><img src="https://img.shields.io/github/followers/abdullahalsuad?style=flat-square?color=%234CC61E&label=GitHub%20Followers%20"/></a>
- <a href="https://github.com/abdullahalsuad/"><img src="https://img.shields.io/github/last-commit/abdullahalsuad/abdullahalsuad?style=flat-square?color=red&label=Last%20Updated%20"/></a>
-</p> --->
+
  
  <hr>
 
