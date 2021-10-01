@@ -31,7 +31,7 @@
  [![VSCode Badge](https://img.shields.io/badge/-VisualStudio-0F85F1?style=for-the-badge&labelColor=black&logo=VisualStudio&logoColor=white)](#) [![Git Badge](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&labelColor=black&logo=Git&logoColor=white)](#) [![Npm Badge](https://img.shields.io/badge/-npm-F44F08?style=for-the-badge&labelColor=black&logo=npm&logoColor=white)](#) [![Sublime Text Badge](https://img.shields.io/badge/-SublimeText-F49708?style=for-the-badge&labelColor=black&logo=SublimeText&logoColor=white)](#)
 
  
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=abdullahalsuad)](https://github.com/anuraghazra/github-readme-stats)
+[![abdullahalsuad's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=abdullahalsuad)]
 
  
 
