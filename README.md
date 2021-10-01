@@ -13,7 +13,7 @@
  
  <hr>
  <!--- proffile count --> 
- <img width="20%" src="https://profile-counter.glitch.me/{prathimacode-hub}/count.svg" /> 
+ <img align="center" width="20%" src="https://profile-counter.glitch.me/{prathimacode-hub}/count.svg" /> 
 
 <!--- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abdullahalsuad" alt="abdullahalsuad" />
