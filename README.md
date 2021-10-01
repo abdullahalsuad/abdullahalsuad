@@ -24,26 +24,22 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=abdullahalsuad.abdullahalsuad)
 
-<details>
-<summary>
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
-</summary>
 
-<br >
-#### Github Stats
+<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
+
+
+
 
 ![abdullahalsuad's github stats](https://github-readme-stats.vercel.app/api?username=abdullahalsuad&count_private=true&theme=tokyonight&hide=contribs,prs)
  
  <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /><br><br><br><br><br>
  
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahalsuad&theme=radical&hide_border=true" /></p><br>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahalsuad&theme=radical&hide_border=true" /></p><br>><br><br><br><br>
  
  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abdullahalsuad)  
 
-![GitHub metrics](https://metrics.lecoq.io/abdullahalsuad)  
 
 
-</details>
 
 
 
