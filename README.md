@@ -22,7 +22,7 @@
  
 #### Profile Visits 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=abdullahalsuad.abdullahalsuad)
+<a href="https://github.com/abdullahalsuad/"><img src="https://img.shields.io/github/followers/abdullahalsuad?style=flat-square?color=%234CC61E&label=GitHub%20Followers%20"/></a>
 
 
 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
@@ -35,17 +35,6 @@
  <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /><br><br><br><br><br>
  
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahalsuad&theme=radical&hide_border=true" /></p><br><br><br><br><br>
-
- <br ><br ><br ><br ><br ><br ><br >
- 
- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abdullahalsuad)  
-
-
-
-
-
-
-
 
 
 <br><br><br><br><br><br><br><br><br><br>
