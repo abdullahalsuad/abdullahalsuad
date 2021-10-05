@@ -9,7 +9,7 @@
  
  
  
-:hearts: &emsp;I enjoy programming and sharing knowledge <br/>
+:hearts: &emsp;I enjoy programming  <br/>
 :computer: &emsp;My goals are to learn new technology/programming languages.<br/>
 ⚡ &emsp; I am looking forward to further expanding my skills.<br/>
 
