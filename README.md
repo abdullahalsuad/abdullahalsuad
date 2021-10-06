@@ -15,7 +15,7 @@
 :computer: &emsp;My goals are to learn new technology/programming languages.<br/>
 ⚡ &emsp; I am looking forward to further expanding my skills.<br/>
 
-<br/><br/>
+<br/>
  
 
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>My Languages And Tools</b></i></p>
