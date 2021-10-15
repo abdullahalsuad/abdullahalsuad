@@ -2,6 +2,10 @@
 ### <p align="center">Student | Programmer | Web Developer 💻</p> <hr>
 <br/>
 
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahalsuad&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahalsuad" /></p> 
+
+![](https://visitor-badge.glitch.me/badge?page_id=abdullahalsuad.abdullahalsuad)
+ 
 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i>Connect with me!
  
  [![Website](https://img.shields.io/badge/abdullahalsuad.netlify.app/-390FF1?style=for-the-badge&logo=Website&logoColor=black)](http://abdullahalsuad.netlify.app/)
