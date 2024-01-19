@@ -42,6 +42,9 @@
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahalsuad&theme=radical&hide_border=true" /></p><br/><br/>
 
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahalsuad&show_icons=true&locale=en&layout=compact" alt="abdullahalsuad" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahalsuad&" alt="abdullahalsuad" /></p>
 <br/><br/><br/><br/><br/><br/><br/>
 
 
