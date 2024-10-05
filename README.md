@@ -28,7 +28,7 @@
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=white)](#)  [![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-5108F4?style=for-the-badge&labelColor=black&logo=Bootstrap&logoColor=white)](#) [![Tailwind CSS Badge](https://img.shields.io/badge/-TailwindCSS-33A5B8?style=for-the-badge&labelColor=black&logo=TailwindCSS&logoColor=white)](#) [![Wordpress Badge](https://img.shields.io/badge/-Wordpress-3D9DFF?style=for-the-badge&labelColor=black&logo=wordpress&logoColor=white)](#) [![WooCommerce Badge](https://img.shields.io/badge/-WooCommerce-B93DFF?style=for-the-badge&labelColor=black&logo=WooCommerce&logoColor=white)](#) 
 
 [![C Badge](https://img.shields.io/badge/-C-F5421C?style=for-the-badge&labelColor=black&logo=C&logoColor=white)](#)
-[![C++ Badge](https://img.shields.io/badge/-C++/-F5421C?style=for-the-badge&labelColor=black&logo=C++&logoColor=white)](#)
+[![C++ Badge](https://img.shields.io/badge/-C-F5421C?style=for-the-badge&labelColor=black&logo=C++&logoColor=white)](#)
  
  [![VSCode Badge](https://img.shields.io/badge/-VisualStudio-0F85F1?style=for-the-badge&labelColor=black&logo=VisualStudio&logoColor=white)](#) [![Git Badge](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&labelColor=black&logo=Git&logoColor=white)](#) [![Npm Badge](https://img.shields.io/badge/-npm-F44F08?style=for-the-badge&labelColor=black&logo=npm&logoColor=white)](#) [![Sublime Text Badge](https://img.shields.io/badge/-SublimeText-F49708?style=for-the-badge&labelColor=black&logo=SublimeText&logoColor=white)](#)
 
