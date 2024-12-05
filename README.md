@@ -16,13 +16,14 @@
  
  
 :hearts: &emsp;I enjoy programming  <br/>
+:computer: &emsp;Most used line of code `console.log("hello world")` <br/>
 :computer: &emsp; My goals are to learn new technology/programming languages.<br/>
 ⚡ &emsp; I am looking forward to further expanding my skills.<br/>
 
 <br/>
  
 
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>My Languages And Tools</b></i></p>
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;#### Things I code with
  
 [![HTML Badge](https://img.shields.io/badge/-HTML5-F5421C?style=for-the-badge&labelColor=black&logo=html5&logoColor=white)](#) [![CSS3 Badge](https://img.shields.io/badge/-CSS3-1C5CF5?style=for-the-badge&labelColor=black&logo=css3&logoColor=white)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=white)](#) [![SASS Badge](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&labelColor=black&logo=Sass&logoColor=white)](#) [![Python Badge](https://img.shields.io/badge/-Python-F4C908?style=for-the-badge&labelColor=black&logo=Python&logoColor=white)](#)
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=white)](#)  [![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-5108F4?style=for-the-badge&labelColor=black&logo=Bootstrap&logoColor=white)](#) [![Tailwind CSS Badge](https://img.shields.io/badge/-TailwindCSS-33A5B8?style=for-the-badge&labelColor=black&logo=TailwindCSS&logoColor=white)](#) [![Wordpress Badge](https://img.shields.io/badge/-Wordpress-3D9DFF?style=for-the-badge&labelColor=black&logo=wordpress&logoColor=white)](#) [![WooCommerce Badge](https://img.shields.io/badge/-WooCommerce-B93DFF?style=for-the-badge&labelColor=black&logo=WooCommerce&logoColor=white)](#) 
