@@ -1,31 +1,15 @@
 
-
-## :eyes: Current overview
-
-#### 🥅 Comfort Zone - Typescript, Javascript, React, Redux, Nextjs, Sass, Tailwind, Nodejs, Express, MongoDB
-
-<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="23%" />
-
-#### 🧣 I'm currently - Learning Deep Dive into Advanced React & Nextjs
-
-#### 🌱 In my free time, I’m exploring - UI/UX Design
-
-#### 🤝 I’m looking - To collaborate on open-source projects
-
-#### 💤 Fun fact - My beautiful gf left me because whole day I do code :)
-
 ## :chart_with_upwards_trend: Current Stats
 
 <br />
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=kawsarkabir&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=abdullahalsuad&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
 </p>
 
 ## :mailbox: Reach me out
 
 <br/>
 
-**_<p align="center"> [<img height="55" src="./images/icons/website.png">](https://kawsarkabir.com)[<img height="55" src="./images/icons/facebook.png">](https://www.facebook.com/devkawsarkabir)[<img height="55" src="./images/icons/linkedin.png">](https://www.linkedin.com/in/kawsarkabir) </p>_**
 
 <br/>
 
