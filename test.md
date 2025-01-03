@@ -9,7 +9,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=abdullahalsuad&theme=algolia&show_icons=true)](https://github.com/abdullahalsuad)
 
-[![Abdullah Al Suad's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=abdullahalsaud&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/abdullahalsaud)
+[![Abdullah Al Suad's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=abdullahalsaud&hide=html,scss,stylus,blade,jupyter%20notebook,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/abdullahalsaud)
 
 ## :computer: Technologies that I know
 
