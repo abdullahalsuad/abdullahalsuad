@@ -45,16 +45,16 @@
 
 
 
-<-- ![abdullahalsuad's github stats](https://github-readme-stats.vercel.app/api?username=abdullahalsuad&count_private=true&theme=tokyonight&hide=contribs,prs) -->
+ ![abdullahalsuad's github stats](https://github-readme-stats.vercel.app/api?username=abdullahalsuad&count_private=true&theme=tokyonight&hide=contribs,prs)
 
-<-- <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=abdullahalsuad&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
-</p> -->
+
  
  <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /><br/><br/>
  
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahalsuad&theme=radical&hide_border=true" /></p><br/><br/>
-
+ <p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=abdullahalsuad&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+</p>
 
 
 <br/><br/><br/><br/><br/><br/><br/>
