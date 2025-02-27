@@ -33,3 +33,12 @@
 
 ### Dev Tools  
 [<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white" alt="VS Code"/>](#) [<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white" alt="Git"/>](#) [<img src="https://img.shields.io/badge/npm-F44F08?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>](#) [<img src="https://img.shields.io/badge/Sublime_Text-F49708?style=for-the-badge&logo=SublimeText&logoColor=white" alt="Sublime Text"/>](#)
+
+
+## ⭐ My Top Projects
+![](https://github-readme-stats.vercel.app/api/pin/?username=abdullahalsuad&repo=tesla-home-clone-with-react&theme=radical)
+![](https://github-readme-stats.vercel.app/api/pin/?username=abdullahalsuad&repo=myday&theme=radical)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abdullahalsuad&theme=radical" alt="GitHub Trophies" />
+</p>
