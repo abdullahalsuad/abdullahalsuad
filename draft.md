@@ -1,84 +1,35 @@
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abdullahalsuad)  
-
-![GitHub metrics](https://metrics.lecoq.io/abdullahalsuad)  v
-
-<a href="https://github.com/abdullahalsuad/"><img src="https://img.shields.io/github/followers/abdullahalsuad?style=flat-square?color=%234CC61E&label=GitHub%20Followers%20"/></a>
-<a href="https://github.com/abdullahalsuad/"><img src="https://img.shields.io/github/last-commit/abdullahalsuad/abdullahalsuad?style=flat-square?color=red&label=Last%20Updated%20"/></a>
-
-## <h1 align="center">Hi, <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> I'm <a href="http://abdullahalsuad.netlify.app/">Abdullah Al Suad <a> 🚀</h1>
-### <p align="center">Student | Programmer | Web Developer 💻</p> <hr>
+# <h1 align="center">Hey there! I'm <a href="http://abdullahalsuad.netlify.app/">Abdullah Al Suad</a> 🚀</h1>
+### <p align="center">Student | Programmer | Web Developer 💻</p>
+---
 <br/>
 
-:coffee: &emsp;Connect with me!
- 
- [![Website](https://img.shields.io/badge/abdullahalsuad.netlify.app/-390FF1?style=for-the-badge&logo=Website&logoColor=black)](http://abdullahalsuad.netlify.app/)
- [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mdabdullahalsuad/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/suad_c137) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suadabdullahal@gmail.com)
- 
- 
- 
-:hearts: &emsp;I enjoy programming and sharing knowledge <br/>
-:computer: &emsp; My goals are to learn new technology/programming languages.<br/>
-⚡ &emsp; I am looking forward to further expanding my skills.<br/>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=abdullahalsuad&label=Profile%20Views&color=0e75b6&style=flat" alt="abdullahalsuad" /></p>
 
+<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/> **Let’s Connect!**  
+[<img src="https://img.shields.io/badge/abdullahalsuad.netlify.app-390FF1?style=for-the-badge&logo=Website&logoColor=black" alt="Website"/>](http://abdullahalsuad.netlify.app/) [<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>](https://www.facebook.com/mdabdullahalsuad/) [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>](https://instagram.com/suad_c137) [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>](https://twitter.com/) [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>](mailto:suadabdullahal@gmail.com)
 
- 
+<br/>
 
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>My Languages And Tools</b></i></p>
- 
-[![HTML Badge](https://img.shields.io/badge/-HTML5-F5421C?style=for-the-badge&labelColor=black&logo=html5&logoColor=white)](#) [![CSS3 Badge](https://img.shields.io/badge/-CSS3-1C5CF5?style=for-the-badge&labelColor=black&logo=css3&logoColor=white)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=white)](#) [![SASS Badge](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&labelColor=black&logo=Sass&logoColor=white)](#) [![Python Badge](https://img.shields.io/badge/-Python-F4C908?style=for-the-badge&labelColor=black&logo=Python&logoColor=white)](#)
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=white)](#)  [![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-5108F4?style=for-the-badge&labelColor=black&logo=Bootstrap&logoColor=white)](#) [![Tailwind CSS Badge](https://img.shields.io/badge/-TailwindCSS-33A5B8?style=for-the-badge&labelColor=black&logo=TailwindCSS&logoColor=white)](#) [![Wordpress Badge](https://img.shields.io/badge/-Wordpress-3D9DFF?style=for-the-badge&labelColor=black&logo=wordpress&logoColor=white)](#) [![WooCommerce Badge](https://img.shields.io/badge/-WooCommerce-B93DFF?style=for-the-badge&labelColor=black&logo=WooCommerce&logoColor=white)](#) 
- 
- [![VSCode Badge](https://img.shields.io/badge/-VisualStudio-0F85F1?style=for-the-badge&labelColor=black&logo=VisualStudio&logoColor=white)](#) [![Git Badge](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&labelColor=black&logo=Git&logoColor=white)](#) [![Npm Badge](https://img.shields.io/badge/-npm-F44F08?style=for-the-badge&labelColor=black&logo=npm&logoColor=white)](#) [![Sublime Text Badge](https://img.shields.io/badge/-SublimeText-F49708?style=for-the-badge&labelColor=black&logo=SublimeText&logoColor=white)](#)
+## 🌟 About Me
+- 💖 **I love programming** and building cool things!  
+- 💻 **Favorite line of code:** `console.log("hello world")`  
+- 🎯 **My goal:** Master new technologies and programming languages.  
+- ⚡ **Looking ahead:** Expanding my skills and creating impactful projects!
 
- 
- 
-#### Profile Visits 
+<br/>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=abdullahalsuad.abdullahalsuad)
+## 🛠️ Tools & Technologies I Code With
+### Frontend  
+[<img src="https://img.shields.io/badge/HTML5-F5421C?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>](#) [<img src="https://img.shields.io/badge/CSS3-1C5CF5?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>](#) [<img src="https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript"/>](#) [<img src="https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript"/>](#) [<img src="https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>](#) [<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>](#) [<img src="https://img.shields.io/badge/Bootstrap-5108F4?style=for-the-badge&logo=Bootstrap&logoColor=white" alt="Bootstrap"/>](#) [<img src="https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind"/>](#)
 
+### Backend & Databases  
+[<img src="https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>](#) [<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>](#) [<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>](#)
 
-<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
+### CMS  
+[<img src="https://img.shields.io/badge/Wordpress-3D9DFF?style=for-the-badge&logo=wordpress&logoColor=white" alt="Wordpress"/>](#) [<img src="https://img.shields.io/badge/WooCommerce-B93DFF?style=for-the-badge&logo=WooCommerce&logoColor=white" alt="WooCommerce"/>](#)
 
+### Programming Languages  
+[<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white" alt="C++"/>](#) [<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white" alt="C"/>](#) [<img src="https://img.shields.io/badge/Python-F4C908?style=for-the-badge&logo=Python&logoColor=white" alt="Python"/>](#)
 
-
-
-![abdullahalsuad's github stats](https://github-readme-stats.vercel.app/api?username=abdullahalsuad&count_private=true&theme=tokyonight&hide=contribs,prs)
- 
- <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /><br/><br/>
- 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahalsuad&theme=radical&hide_border=true" /></p><br/><br/>
-
-
-<br/><br/><br/><br/><br/>
-ll1ll1ll1ll1
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?abdullahalsuad=e&label=Profile%20views&color=0e75b6&style=flat" alt="e" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?abdullahalsuad=e" alt="e" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?abdullahalsuad=e&show_icons=true&locale=en&layout=compact" alt="e" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?abdullahalsuad=e&show_icons=true&locale=en" alt="e" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?abdullahalsuad=e&" alt="e" /></p>
-
+### Dev Tools  
+[<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white" alt="VS Code"/>](#) [<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white" alt="Git"/>](#) [<img src="https://img.shields.io/badge/npm-F44F08?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>](#) [<img src="https://img.shields.io/badge/Sublime_Text-F49708?style=for-the-badge&logo=SublimeText&logoColor=white" alt="Sublime Text"/>](#)
