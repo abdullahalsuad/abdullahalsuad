@@ -45,19 +45,6 @@
 
 
 
- ![abdullahalsuad's github stats](https://github-readme-stats.vercel.app/api?username=abdullahalsuad&count_private=true&theme=tokyonight&hide=contribs,prs)
-
-
- 
- <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /><br/><br/>
- 
-
-
-
-<br/><br/><br/><br/><br/><br/><br/>
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahalsuad&card_width=500&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"><br><br>
                   
 
 
