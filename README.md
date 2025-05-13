@@ -39,7 +39,7 @@
  
 [![VS Code Badge](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&labelColor=black&logo=Visual%20Studio%20Code&logoColor=white)](#) [![Git Badge](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&labelColor=black&logo=Git&logoColor=white)](#) [![Npm Badge](https://img.shields.io/badge/-npm-F44F08?style=for-the-badge&labelColor=black&logo=npm&logoColor=white)](#) [![Sublime Text Badge](https://img.shields.io/badge/-SublimeText-F49708?style=for-the-badge&labelColor=black&logo=SublimeText&logoColor=white)](#)
 
- 
+ <br/><br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=abdullahalsuad)](https://git.io/streak-stats)
 
