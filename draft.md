@@ -46,3 +46,5 @@
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=abdullahalsuad)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+https://streak-stats.demolab.com/?user=abdullahalsuad
