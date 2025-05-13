@@ -42,3 +42,7 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=abdullahalsuad&theme=radical" alt="GitHub Trophies" />
 </p>
+
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=abdullahalsuad)](https://github.com/DenverCoder1/github-readme-streak-stats)
