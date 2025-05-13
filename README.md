@@ -41,7 +41,7 @@
 
  
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=abdullahalsuad&theme=dark&date_format=j%20M%5B%20Y%5D)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 
 
