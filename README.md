@@ -18,6 +18,7 @@ My goal? Constant learning 📚 and building cool stuff 🛠️. Let's connect! 
 </p>
 
 <h2><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" height="30px" alt="Git"/>&nbsp; <span style="color:#0ABAB5;">Current Overview:</span></h2>
+<br />
 
 - 🧣 **Learning Deep Dive into Advanced React & Next.js**
   <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXVha3gzNGxxejJ5Z2xnbTZwaGtuNW1lYXMzMjdwYzM5b3lvcmk4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LojladCSqrWbeaG1jQ/giphy.gif" alt="Penguin" width="23%" />
@@ -43,7 +44,7 @@ My goal? Constant learning 📚 and building cool stuff 🛠️. Let's connect! 
 <!-- Technology  -->
 
 <h2><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" height="30px" alt="Git"/>&nbsp; <span style="color:#0ABAB5;">Tech Stack:</span></h2>
-
+<br />
 <!-- Programming Languages -->
 <p>
  
@@ -65,7 +66,7 @@ My goal? Constant learning 📚 and building cool stuff 🛠️. Let's connect! 
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
-<br>
+
 
 <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG1hdHRubGVseHh0YzNtN25obTY5aXd5cTc0N2hicTFuazRqMzE3ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/G74LKP9zsfLInmz3H6/giphy.gif" alt="Penguin" width="23%" />
 
