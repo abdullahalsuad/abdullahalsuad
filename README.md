@@ -1,4 +1,4 @@
- <p align="center">
+<p align="center">
   <img src="./hello.svg" alt="Modern Profile Banner" width="100%" style="border-radius: 10px;">
 </p>
 
@@ -12,9 +12,15 @@
 
 <h2><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" height="30px" alt="Git"/>&nbsp; <span style="color:#0ABAB5;">About:</span></h2>
 
-<p>
-Front-End Developer from Bangladesh 🇧🇩. I love building with React.js, HTML, CSS, JavaScript, Next.js, Node.js, and Express. Also dabble in Python 🐍 and C++ 💻. 
-My goal? Constant learning 📚 and building cool stuff 🛠️. Let's connect! 🚀
+<!-- About Section -  -->
+<p align="left">
+  👋 Hi! I'm a passionate <b>Front-End Developer</b> from Bangladesh 🇧🇩.<br>
+  I craft interactive and modern web experiences using <b>React.js</b>, <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, <b>Next.js</b>, <b>Node.js</b>, and <b>Express</b>.
+ 
+I also enjoy exploring <b>Python</b> 🐍 and <b>C++</b> 💻.
+  <b>My mission?</b> Keep learning 📚, push boundaries, and build awesome things 🛠️.<br>
+ 
+  <b>Let’s connect and create something amazing together!</b> 🚀
 </p>
 
 <h2><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" height="30px" alt="Git"/>&nbsp; <span style="color:#0ABAB5;">Current Overview:</span></h2>
