@@ -1,6 +1,6 @@
-<!-- <p align="center">
-  <img src="https://source.unsplash.com/random/1000x200?programming-code-development" alt="Modern Profile Banner" width="100%" style="border-radius: 10px;">
-</p> -->
+ <p align="center">
+  <img src="./hello.svg" alt="Modern Profile Banner" width="100%" style="border-radius: 10px;">
+</p>
 
 <h1 align="center">👋 Hi I'm <span style="color:#0ABAB5;"> Abdullah Al Suad</span></h1>
 
@@ -66,7 +66,6 @@ My goal? Constant learning 📚 and building cool stuff 🛠️. Let's connect! 
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
-
 
 <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG1hdHRubGVseHh0YzNtN25obTY5aXd5cTc0N2hicTFuazRqMzE3ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/G74LKP9zsfLInmz3H6/giphy.gif" alt="Penguin" width="23%" />
 
