@@ -59,15 +59,15 @@ I also enjoy exploring <b>Python</b> 🐍 and <b>C++</b> 💻.
   </a>
 </p>
 
-<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG1hdHRubGVseHh0YzNtN25obTY5aXd5cTc0N2hicTFuazRqMzE3ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/G74LKP9zsfLInmz3H6/giphy.gif" alt="Penguin" width="23%" />
-
+<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3NkZms5dG5nMXlncDRib2UydGhnNXI2cXIwcHdlaWZxMjR1NHczbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/yTFemEJxmeW2YLOT6p/giphy.gif" alt="Penguin" width="25%" />
+<!-- Framework -->
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,nodejs,express&perline=6&theme=light" alt="Frameworks" />
   </a>
 </p>
 
-
+<!-- tools -->
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,vite,npm,wordpress,mongodb,firebase,netlify,vercel,figma&perline=9&theme=light" alt="Tools" />
@@ -98,4 +98,3 @@ I also enjoy exploring <b>Python</b> 🐍 and <b>C++</b> 💻.
     <img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=globe&logoColor=white" alt="Personal Website" />
   </a>
 </p>
-
