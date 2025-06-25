@@ -78,7 +78,7 @@ I also enjoy exploring <b>Python</b> 🐍 and <b>C++</b> 💻.
 
 <!-- Reach me out -->
 
-<h2><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" height="30px" alt="Git"/>&nbsp; <span style="color:#0ABAB5;">Wait for Your Messages!</span></h2>
+<h2><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" height="30px" alt="Git"/>&nbsp; <span style="color:#0ABAB5;">Waiting  for Your Messages!</span></h2>
 <br />
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXp5dzV1bDVmbWEzaHM0bnIzdTZsbDlneHVlcXd3dG12ZnQ1c3JubiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xxwVSBPGOqDZcbG9Bh/giphy.gif" alt="Waiting for messages" width="150px">
