@@ -4,7 +4,7 @@
 
 <h1 align="center">👋 Hi I'm <span style="color:#0ABAB5;"> Abdullah Al Suad</span></h1>
 
-### <p align="center">Programmer | Web Developer | Front-End Developer 👨‍💻</p>
+### <p align="center">Programmer | Student | Full Stack Developer 👨‍💻</p>
 
 <br/>
 
@@ -14,7 +14,7 @@
 
 <!-- About Section -  -->
 <p align="left">
-  👋 Hi! I'm a passionate <b>Front-End Developer</b> from Bangladesh 🇧🇩.<br>
+  👋 Hi! I'm a passionate <b>Full Stack Developer</b> from Bangladesh 🇧🇩.<br>
   I craft interactive and modern web experiences using <b>React.js</b>, <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, <b>Next.js</b>, <b>Node.js</b>, and <b>Express</b>.
  
 I also enjoy exploring <b>Python</b> 🐍 and <b>C++</b> 💻.
