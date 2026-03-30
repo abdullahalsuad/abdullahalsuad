@@ -1,7 +1,5 @@
 <h1 align="center">👋 Hi I'm <span style="color:#0ABAB5;"> Abdullah Al Suad</span></h1>
 
-<br/>
-
 <!-- About -->
 
 <h2><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" height="30px" alt="Git"/>&nbsp; <span style="color:#0ABAB5;">About:</span></h2>
