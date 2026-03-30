@@ -1,10 +1,4 @@
-<p align="center">
-  <img src="./hello.svg" alt="Modern Profile Banner" width="100%" style="border-radius: 10px;">
-</p>
-
 <h1 align="center">👋 Hi I'm <span style="color:#0ABAB5;"> Abdullah Al Suad</span></h1>
-
-### <p align="center">Programmer | Student | Full Stack Developer 👨‍💻</p>
 
 <br/>
 
@@ -14,24 +8,20 @@
 
 <!-- About Section -  -->
 <p align="left">
-  👋 Hi! I'm a passionate <b>Full Stack Developer</b> from Bangladesh 🇧🇩.<br>
-  I craft interactive and modern web experiences using <b>React.js</b>, <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, <b>Next.js</b>, <b>Node.js</b>, and <b>Express</b>.
- 
-I also enjoy exploring <b>Python</b> 🐍 and <b>C++</b> 💻.
-  <b>My mission?</b> Keep learning 📚, push boundaries, and build awesome things 🛠️.<br>
- 
-  <b>Let’s connect and create something amazing together!</b> 🚀
+  I build smart, reliable software that solves real problems and makes life easier. I focus on creating tools that simplify workflows, support better decisions, and deliver real impact. <br/>
+  I love learning by doing, embracing challenges, and improving a little every day. Let’s create something meaningful together.
+
 </p>
 
 <h2><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" height="30px" alt="Git"/>&nbsp; <span style="color:#0ABAB5;">Current Overview:</span></h2>
 <br />
 
-- 🧣 **Learning Deep Dive into Advanced React & Next.js**
+- 🍕 Eating snacks while debugging like a pro
   <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXVha3gzNGxxejJ5Z2xnbTZwaGtuNW1lYXMzMjdwYzM5b3lvcmk4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LojladCSqrWbeaG1jQ/giphy.gif" alt="Penguin" width="23%" />
 
-- 🔭 **Exploring Figma** for design mockups.
-- 💻 **Working on a new e-commerce project.**
-- 🤝 **Looking to collaborate on open-source projects.**
+- 😴 Power-napping to recharge brain cells
+- 💻 Cooking up some top-secret projects
+- 🧠 Mastering Advanced React & Next.js magic
 
 <br />
 
@@ -55,7 +45,7 @@ I also enjoy exploring <b>Python</b> 🐍 and <b>C++</b> 💻.
 <!-- Programming Languages  -->
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,python,typescript,javascript&perline=5&theme=light" alt="Programming Languages" />
+    <img src="https://skillicons.dev/icons?i=c,python,typescript,go&perline=5&theme=light" alt="Programming Languages" />
   </a>
 </p>
 
@@ -63,14 +53,14 @@ I also enjoy exploring <b>Python</b> 🐍 and <b>C++</b> 💻.
 <!-- Framework -->
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,nodejs,express&perline=6&theme=light" alt="Frameworks" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nest,express&perline=6&theme=light" alt="Frameworks" />
   </a>
 </p>
 
 <!-- tools -->
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vite,npm,wordpress,mongodb,firebase,netlify,vercel,figma&perline=9&theme=light" alt="Tools" />
+    <img src="https://skillicons.dev/icons?i=git,npm,postgres,mongodb,docker,prisma,firebase,&perline=9&theme=light" alt="Tools" />
   </a>
 </p>
 
