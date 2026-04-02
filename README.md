@@ -14,12 +14,12 @@
 <h2><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" height="30px" alt="Git"/>&nbsp; <span style="color:#0ABAB5;">Current Overview:</span></h2>
 <br />
 
-- 🍕 Eating snacks while debugging like a pro
+- 🍕 Enjoying small breaks with snacks
   <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXVha3gzNGxxejJ5Z2xnbTZwaGtuNW1lYXMzMjdwYzM5b3lvcmk4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LojladCSqrWbeaG1jQ/giphy.gif" alt="Penguin" width="23%" />
 
 - 😴 Power-napping to recharge brain cells
 - 💻 Cooking up some top-secret projects
-- 🧠 Mastering Advanced React & Next.js magic
+- 🧠 Building a better version of myself
 
 <br />
 
